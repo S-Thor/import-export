@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+}
+#navbar {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 0px 20px;
+    background-color: bisque;
+}
+
+#search_input {
+    width: 85%;
+    height: 100%;
+    margin: 15px 0px;
+    padding: 10px;
+    border-radius: 15px;
+}
